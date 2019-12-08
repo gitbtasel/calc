@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.btasel.cicd.calc.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-08T05:36:47" hostname="Buraks-MBP.fios-router.home" time="0.0">
+<testsuite name="com.btasel.cicd.calc.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-08T05:51:59" hostname="Buraks-MBP.fios-router.home" time="0.001">
   <properties/>
-  <testcase name="testSum" classname="com.btasel.cicd.calc.CalculatorTest" time="0.0"/>
+  <testcase name="testSum" classname="com.btasel.cicd.calc.CalculatorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

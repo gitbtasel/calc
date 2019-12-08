@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="/Users/buraktasel/Documents/development/git/calc/src/main/java/com/btasel/cicd/calc/CalcApplication.java">
+</file>
+<file name="/Users/buraktasel/Documents/development/git/calc/src/main/java/com/btasel/cicd/calc/Calculator.java">
+</file>
+<file name="/Users/buraktasel/Documents/development/git/calc/src/main/java/com/btasel/cicd/calc/CalculatorController.java">
+</file>
+</checkstyle>
